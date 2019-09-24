@@ -1,3 +1,3 @@
 # CryptoTracker
 Diplomarbeit Repository
-ReadMe v2
+ReadMe v4
